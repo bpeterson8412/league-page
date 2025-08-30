@@ -31,7 +31,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 // To omit an optional field, set it's value to null
 
 export const managers = [
-    // {
+   {
        "managerID": "455148977789071360",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "William August Peterson IV",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -68,6 +68,7 @@ export const managers = [
          link: 0, // manager array number within this array, or null to link back to all managers page
          image: "/managers/bpdodge.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
+   }
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
     //   "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
