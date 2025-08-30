@@ -10,11 +10,11 @@ export const homepageText = `
   <p>Welcome to the M.U.F.F. Cup Website.</p>
   <p>Glorious draft day is upon us. In a week, we shall hear the soothing voice of our hero Scott Hanson announce 7 hours of commercial free football.</p>
   <p>On this site we will have weekly updates, posts to review the scores and standings, and some good ol' general shit talk from your most benevolent League Commissioner.</p>
-  <p>To roll in this new and improved format, Week 1 this year and going forwad will be known as Rivalry Week. I've hand picked these matchups to bring some extra spice to an already action packed Week 1. We will keep trasck of the winners in the following bowls:</p>
+  <p>To roll in this new and improved format, Week 1 this year and going forward will be known as Rivalry Week. I've hand picked these matchups to bring some extra spice to an already action packed Week 1. We will keep track of the winners in the following bowls:</p>
   <p>THE BILLY BOWL: BP vs. BN. Who's fantasy roster cuisine will reign supreme?</p>
   <p>THE MAN OF THE HOUSE BOWL: Mac vs. Justin. There can only be ONE in the extended Green/Thomas family.</p>
   <p>THE LOVER'S QUARREL: Sam vs. Dan. Trouble in Paradise? Find out this week!</p>
-  <p>THE BEN BOWL: Ben W vs. Ben M. Why does everyone have the smae fucking name in this league?</p>
+  <p>THE BEN BOWL: Ben W vs. Ben M. Why does everyone have the same fucking name in this league?</p>
   <p>THE 'I Don't Wanna Play Sports Even Though I'm Genetically Predisposed To Be Huge' BOWL: Matt vs. Max. Really though wtf.</p>
   <p>THE RUINED BY THE COLTS BOWL: Brian vs. Beau. Self explanitory.</p>
   <p></p>
