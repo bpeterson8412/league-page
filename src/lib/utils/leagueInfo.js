@@ -224,7 +224,7 @@ export const managers = [
        "name": "Sam Lindquist",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Chesterton", // (optional)
-       "bio": "Sneaky good in most seasons until an injury bloes up the roster.",
+       "bio": "Sneaky good in most seasons until an injury blows up the roster.",
        "photo": "/managers/Sam.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
