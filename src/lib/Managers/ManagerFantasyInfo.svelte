@@ -248,4 +248,15 @@
             {viewManager.rival.name}
         </div>
     </div>
+ <div class="infoSlot infoRival" onclick={() => changeManager(viewManager.rival.link)}>
+        <div class="infoLabel">
+            Rival
+        </div>
+        <div class="infoIcon">
+            <img class="rival" src="{viewManager.rival.image}" alt="rival"/>
+        </div>
+        <div class="infoAnswer">
+            {viewManager.rival.name}
+        </div>
+    </div>
 </div>
