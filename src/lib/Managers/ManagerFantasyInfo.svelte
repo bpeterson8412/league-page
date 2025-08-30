@@ -81,20 +81,6 @@
         height: 100%;
     }
 
-	.infoRival2 {
-        cursor: pointer;
-    }
-
-    .infoRival2:hover .infoIcon {
-        box-shadow: 0 0 6px 4px var(--aaa);
-        border: 1px solid var(--aaa);
-    }
-
-    .rival2 {
-        height: 100%;
-    }
-
-
     .rebuildOrWin {
         height: 70px;
     }
@@ -262,15 +248,18 @@
             {viewManager.rival.name}
         </div>
     </div>
- <div class="infoSlot infoRival2" onclick={() => changeManager(viewManager.rival.link)}>
-        <div class="infoLabel">
-            Rival
+    <!-- Second Rival -->
+    {#if viewManager.rival2}
+        <div class="infoSlot infoRival" onclick={() => changeManager(viewManager.rival2.link)}>
+            <div class="infoLabel">
+                Second Rival
+            </div>
+            <div class="infoIcon">
+                <img class="rival" src="{viewManager.rival2.image}" alt="rival"/>
+            </div>
+            <div class="infoAnswer">
+                {viewManager.rival2.name}
+            </div>
         </div>
-        <div class="infoIcon">
-            <img class="rival2" src="{viewManager.rival.image}" alt="rival2"/>
-        </div>
-        <div class="infoAnswer">
-            {viewManager.rival.name}
-        </div>
-    </div>
+    {/if}
 </div>
