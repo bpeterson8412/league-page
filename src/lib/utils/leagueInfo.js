@@ -17,7 +17,7 @@ export const homepageText = `
   <p>THE BEN BOWL: Ben W vs. Ben M. Why does everyone have the same fucking name in this league?</p>
   <p>THE 'I Don't Wanna Play Sports Even Though I'm Genetically Predisposed To Be Huge' BOWL: Matt vs. Max. Really though wtf.</p>
   <p>THE RUINED BY THE COLTS BOWL: Brian vs. Beau. Self explanitory.</p>
-  <img src={https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzN25lc3d3M3NmNDl5dmZ5cjM5MzBhejE1czloemRja2s0NWdyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DxW9PPKONgi51i7zX/giphy.gif} alt="trailergif" />
+  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzN25lc3d3M3NmNDl5dmZ5cjM5MzBhejE1czloemRja2s0NWdyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DxW9PPKONgi51i7zX/giphy.gif" alt="trailergif" />
   <p>THE 2025 SEASON IS ON</p>
 `;
 
