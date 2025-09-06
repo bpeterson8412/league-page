@@ -105,7 +105,17 @@ const genElementStart = (nodeType, indent, target) => {
             paragraphText = '<hr />'
             break;
         case 'embedded-asset-block':
-            paragraphText = `<br /><div class="blogImg"><img class="innerImg" src="${getImg(target)}" alt="${target.fields.title}" /></div>`
+           const mediaUrl = getImg(target); // Assuming getImg returns the URL of the asset
+            const contentType = target.fields.file.contentType; // Assuming this gives you the content type
+
+            // Check the content type to determine if it's an image or video
+            if (contentType.startsWith('image/')) {
+                paragraphText = `<br /><div class="blogImg"><img class="innerImg" src="${mediaUrl}" alt="${target.fields.title}" /></div>`;
+            } else if (contentType.startsWith('video/')) {
+                paragraphText = `<br /><div class="blogVideo"><video controls width="100%"><source src="${mediaUrl}" type="${contentType}">Your browser does not support the video tag.</video></div>`;
+            } else {
+                paragraphText = `<br /><div class="unsupportedMedia">Unsupported media type: ${contentType}</div>`;
+            }
             break;
     
         default:
