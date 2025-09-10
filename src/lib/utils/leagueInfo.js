@@ -7,18 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the M.U.F.F. Cup Website.</p>
-  <p>Glorious draft day is upon us. In a week, we shall hear the soothing voice of our hero Scott Hanson announce 7 hours of commercial free football.</p>
-  <p>On this site we will have weekly updates, posts to review the scores and standings, and some good ol' general shit talk from your most benevolent League Commissioner.</p>
-  <p>To roll in this new and improved format, Week 1 this year and going forward will be known as Rivalry Week. I've hand picked these matchups to bring some extra spice to an already action packed Week 1. We will keep track of the winners in the following bowls:</p>
-  <p>THE BILLY BOWL: BP vs. BN. Who's fantasy roster cuisine will reign supreme?</p>
-  <p>THE MAN OF THE HOUSE BOWL: Mac vs. Justin. There can only be ONE in the extended Green/Thomas family.</p>
-  <p>THE LOVER'S QUARREL: Sam vs. Dan. Trouble in Paradise? Find out this week!</p>
-  <p>THE BEN BOWL: Ben W vs. Ben M. Why does everyone have the same fucking name in this league?</p>
-  <p>THE 'I Don't Wanna Play Sports Even Though I'm Genetically Predisposed To Be Huge' BOWL: Matt vs. Max. Really though wtf.</p>
-  <p>THE RUINED BY THE COLTS BOWL: Brian vs. Beau. Self explanitory.</p>
-  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzN25lc3d3M3NmNDl5dmZ5cjM5MzBhejE1czloemRja2s0NWdyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DxW9PPKONgi51i7zX/giphy.gif" alt="trailergif" />
-  <p>THE 2025 SEASON IS ON</p>
+  <p>WEEK 1 IS IN THE BOOKS.</p>
+  <p>A semi-dramatic Week 1 is done, with some incredibly close games and some straight up spit-roastings.</p>
+  <p>Congrats to the winners of Rivalry Week:</p>
+  <p>THE BILLY BOWL: BN sexually abused our glorious commisioner, and threw his big top score dick down on the table. Congrats and fuck you, you'll be hearing from my laywer.</p>
+  <p>THE MAN OF THE HOUSE BOWL: Mac barely squeeked by Justin. Is House Green near a collapse?</p>
+  <p>THE LOVER'S QUARREL: Sam gave Dan a false sense of hope and then beat him down. Should have had dinner ready when he got home Dan.</p>
+  <p>THE BEN BOWL: Molnar barely edged past Benny Boy. Guess Jalen doesn't Squirt quite as well as Pookie.</p>
+  <p>THE 'I Don't Wanna Play Sports Even Though I'm Genetically Predisposed To Be Huge' BOWL: In dramatic fashion on the last play of the week, Matt Secure the win after a correction.</p>
+  <p>THE RUINED BY THE COLTS BOWL: Brian brought a limp dick to a cock fight, putting up the lowest score total of the week. The FNG Beau gets the W.</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW4zY2w0b3g2bGxhaHNxaDFpMmV5eGg5OXQ3Z3pmNmh5Y3poYnR2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PRJ5uWuZ8tX6KGpJS2/giphy.gif" alt="yesgif" />
+  <p>Check-out the Full Week 1 Recap in the Blog Post Below:</p>
 `;
 
 /*   STEP 3   */
