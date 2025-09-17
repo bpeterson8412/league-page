@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 1 IS IN THE BOOKS.</p>
-  <p>A semi-dramatic Week 1 is done, with some incredibly close games and some straight up spit-roastings.</p>
-  <p>Congrats to the winners of Rivalry Week:</p>
-  <p>THE BILLY BOWL: BN sexually abused our glorious commisioner, and threw his big top score dick down on the table. Congrats and fuck you, you'll be hearing from my laywer.</p>
-  <p>THE MAN OF THE HOUSE BOWL: Mac barely squeeked by Justin. Is House Green near a collapse?</p>
-  <p>THE LOVER'S QUARREL: Sam gave Dan a false sense of hope and then beat him down. Should have had dinner ready when he got home Dan.</p>
-  <p>THE BEN BOWL: Molnar barely edged past Benny Boy. Guess Jalen doesn't Squirt quite as well as Pookie.</p>
-  <p>THE 'I Don't Wanna Play Sports Even Though I'm Genetically Predisposed To Be Huge' BOWL: In dramatic fashion on the last play of the week, Matt Secure the win after a correction.</p>
-  <p>THE RUINED BY THE COLTS BOWL: Brian brought a limp dick to a cock fight, putting up the lowest score total of the week. The FNG Beau gets the W.</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW4zY2w0b3g2bGxhaHNxaDFpMmV5eGg5OXQ3Z3pmNmh5Y3poYnR2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PRJ5uWuZ8tX6KGpJS2/giphy.gif" alt="yesgif" />
-  <p>Check-out the Full Week 1 Recap in the Blog Post Below:</p>
+  <p>WEEK 2 IS DONE AND WEEK 3 is UPON US!</p>
+  <p>Week 2 saw scoring get closer to normal with some wild games.</p>
+  <p>Matt and Sam are sitting pretty in Points For at the top of the standings so far.</p>
+  <p>I spent $200 for a fumble, concusion, and tinker stinker regret.</p>
+  <p>Two big trades hit the league this week with Beau getting his grubby little hands on his pookie and BN regaining rights to Quadzilla.</p>
+  <p>Did Brian daytrade himself by selling AJ Brown? Or is black jesus a false prophet for me? Only time will tell.</p>
+  <p>Anyone wanna do an over/under on how many weeks until Matt inevitably implodes?</p>
+  <p></p>
+  <p></p>
+  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJzZzN1Nm52dXgzYnUzc3M3enB0cXM3cGRsdXZmNnowenp1OXo2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxJiV7KDLUJB6vhQPX/giphy.gif" alt="yesgif" />
+  <p>Check-out the Full Week 2 Recap in the Blog Post Below:</p>
 `;
 
 /*   STEP 3   */
