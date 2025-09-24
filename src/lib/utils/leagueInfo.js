@@ -8,7 +8,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>WEEK 3 IS DONE </p>
-  <p>Week 3 was insane. So many vlocked field goals. So. Many.</p>
+  <p>Week 3 was insane. So many blocked field goals. So. Many.</p>
   <p>Mac and Molnar are now the only undeafeted teams left.</p>
   <p>A rash of Injuries hit and turned the tide in multiple games</p>
   <p>The trade bug has finally hit Dan and he refuses to stop</p>
