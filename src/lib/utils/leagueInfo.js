@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 2 IS DONE AND WEEK 3 is UPON US!</p>
-  <p>Week 2 saw scoring get closer to normal with some wild games.</p>
-  <p>Matt and Sam are sitting pretty in Points For at the top of the standings so far.</p>
-  <p>I spent $200 for a fumble, concusion, and tinker stinker regret.</p>
-  <p>Two big trades hit the league this week with Beau getting his grubby little hands on his pookie and BN regaining rights to Quadzilla.</p>
-  <p>Did Brian daytrade himself by selling AJ Brown? Or is black jesus a false prophet for me? Only time will tell.</p>
-  <p>Anyone wanna do an over/under on how many weeks until Matt inevitably implodes?</p>
+  <p>WEEK 3 IS DONE </p>
+  <p>Week 3 was insane. So many vlocked field goals. So. Many.</p>
+  <p>Mac and Molnar are now the only undeafeted teams left.</p>
+  <p>A rash of Injuries hit and turned the tide in multiple games</p>
+  <p>The trade bug has finally hit Dan and he refuses to stop</p>
+  <p>I am convinced God has smited me</p>
+  <p>Matt Imploded</p>
   <p></p>
   <p></p>
-  <img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJzZzN1Nm52dXgzYnUzc3M3enB0cXM3cGRsdXZmNnowenp1OXo2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vxJiV7KDLUJB6vhQPX/giphy.gif" alt="yesgif" />
-  <p>Check-out the Full Week 2 Recap in the Blog Post Below:</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZkM2NxOXlpbTIxMWlsMmszdWdxZGpoYnQxcWd1dmdpM3VwNmN1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eePSFNBFv2W9owZ4Sh/giphy.gif" alt="yesgif" />
+  <p>Check-out the Full Week 3 Recap in the Blog Post Below:</p>
 `;
 
 /*   STEP 3   */
