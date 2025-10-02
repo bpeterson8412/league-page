@@ -17,7 +17,7 @@ export const homepageText = `
   <p></p>
   <p></p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjZXp0M3Z6OHdsOTN6cGdlNGkxMHN3NmtrZ3puYWR6aTFtcHFuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GIvajz0TlE316/giphy.gif" alt="yesgif" />
-  <p>Check-out the Full Week 3 Recap in the Blog Post Below:</p>
+  <p>Check-out the Full Week 4 Recap in the Blog Post Below:</p>
 `;
 
 /*   STEP 3   */
