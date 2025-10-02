@@ -7,16 +7,16 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 3 IS DONE </p>
-  <p>Week 3 was insane. So many blocked field goals. So. Many.</p>
-  <p>Mac and Molnar are now the only undeafeted teams left.</p>
-  <p>A rash of Injuries hit and turned the tide in multiple games</p>
-  <p>The trade bug has finally hit Dan and he refuses to stop</p>
-  <p>I am convinced God has smited me</p>
-  <p>Matt Imploded</p>
+  <p>WEEK 4 is here </p>
+  <p></p>
+  <p>Mac and Molnar still undeafeted.</p>
+  <p>Tyreek Hill's leg is spaghetti</p>
+  <p>STOP THE TRADES PLEASE</p>
+  <p>My asshole can't take any more pounding</p>
   <p></p>
   <p></p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZkM2NxOXlpbTIxMWlsMmszdWdxZGpoYnQxcWd1dmdpM3VwNmN1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eePSFNBFv2W9owZ4Sh/giphy.gif" alt="yesgif" />
+  <p></p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJjZXp0M3Z6OHdsOTN6cGdlNGkxMHN3NmtrZ3puYWR6aTFtcHFuMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GIvajz0TlE316/giphy.gif" alt="yesgif" />
   <p>Check-out the Full Week 3 Recap in the Blog Post Below:</p>
 `;
 
