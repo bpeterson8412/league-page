@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 5 is done and we are a third of the way through the season! </p>
+  <p>WEEK 6 is in the books. The race is tight with contending teams only a few games out from each other! </p>
   <p></p>
-  <p>No one is undeafeted after several upsets this week.</p>
-  <p>Will Joe Flacco be the hero Dan's roster deserves?</p>
-  <p>Will BP or Max stay winless?</p>
-  <p>Weekly Recaps got a massive upgrade!!</p>
-  <p></p>
+  <p>BP is Dead.</p>
+  <p>Brian is lost</p>
+  <p>Will BP stay winless?</p>
   <p></p>
   <p></p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuMHV6cDIwajY4dXpkN3I1aTMwNjlhM3MzMms5c3hjZGZjZWRkbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WEgx4Prme0m1a/giphy.gif" alt="yesgif" />
-  <p>Check-out the Full Week 5 Recap in the Blog Post Below:</p>
+  <p></p>
+  <p></p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhqY3F2anl5Yzg2anZuaWd6YnM5bnRxeDcxeHZkajZ3anhxeXRlNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/56MCwZ3SCzp1NjSirn/giphy.gif" alt="yesgif" />
+  <p>Check-out the Full Week 6 Recap in the Blog Post Below:</p>
 `;
 
 /*   STEP 3   */
