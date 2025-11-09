@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 7 is over. What an absoluet shit-show of a week </p>
+  <p>WEEK 10 is here. Week 9 was spicy as hell, upsets and burning retnas included! </p>
   <p></p>
-  <p>Dan throws a tantrum.</p>
-  <p>Warranted Trade rape occured</p>
-  <p>Commisioner powers were used</p>
-  <p>TIme to move on to week 8</p>
+  <p>Brian somehow beats Sam</p>
+  <p>Ben beats on Matt's ass</p>
+  <p>BP still sucks</p>
+  <p>Dan drops the ball against Max</p>
+  <p>Beau takes top score and shows hole to bring fortune to the Bills</p>
   <p></p>
   <p></p>
-  <p></p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXkxamcybnhwZHMwdHhwZjJuZHliNHQzNWI1bjV6MmZsMzltN2Y3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2tRQ6Ike6ZHyTyABqT/giphy.gif" alt="yesgif" />
-  <p>Check-out the Full Week 7 Recap in the Blog Post Below:</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwOGFrZXJhOWl2N3lqcHFwcWVtZmowaTViMmY0cXFvMjRmZzJ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nuP3xl4BTIUxO/giphy.gif" />
+  <p>Check-out the Full Week 9 Recap in the Blog Post Below at your PERIL NSFW:</p>
 `;
 
 /*   STEP 3   */
