@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 10 is here. Week 9 was spicy as hell, upsets and burning retnas included! </p>
+  <p>WEEK 12 is here. The playoffs are quickly approaching, and 4 Teams wrestle for the final 6th spot! </p>
   <p></p>
-  <p>Brian somehow beats Sam</p>
+  <p>Matt, Ben, Beau, Dan, and Brian are all at each other's throats for the 5th and 6th spots</p>
   <p>Ben beats on Matt's ass</p>
   <p>BP still sucks</p>
-  <p>Dan drops the ball against Max</p>
-  <p>Beau takes top score and shows hole to bring fortune to the Bills</p>
+  <p>Dan is falling off? Sets league low-score record and gives BP a win?!?!?</p>
   <p></p>
   <p></p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2pwOGFrZXJhOWl2N3lqcHFwcWVtZmowaTViMmY0cXFvMjRmZzJ0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nuP3xl4BTIUxO/giphy.gif" />
-  <p>Check-out the Full Week 9 Recap in the Blog Post Below at your PERIL NSFW:</p>
+  <p></p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmMyMjh3b3NndnhmemR4bTRzZGxzenBkc3hnNjN0ZWoxOGw1emZwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nuszmksOatr1jo0VJ4/giphy.gif" />
+  <p>Check-out the Full Week 10 and 11 Recap double feature in the Blog Post Below</p>
 `;
 
 /*   STEP 3   */
