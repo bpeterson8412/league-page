@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 12 is here. The playoffs are quickly approaching, and 4 Teams wrestle for the final 6th spot! </p>
+  <p>WEEK 14. The final game. 5 boys enter, 2 Men leave. </p>
   <p></p>
-  <p>Matt, Ben, Beau, Dan, and Brian are all at each other's throats for the 5th and 6th spots</p>
-  <p>Ben beats on Matt's ass</p>
-  <p>BP still sucks</p>
-  <p>Dan is falling off? Sets league low-score record and gives BP a win?!?!?</p>
+  <p>Matt, Ben, Beau, Dan, and Brian are all vying for the final playoff spots</p>
+  <p>BN is 1st seed</p>
+  <p>Mac, Sam, and Molnar await to discover their seeds</p>
+  <p>Max, BP, and Justin prepare for the toilet bowl throwdown.</p>
   <p></p>
+  <p>PLAYOFF FOOTBALL INBOUND</p>
   <p></p>
-  <p></p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmMyMjh3b3NndnhmemR4bTRzZGxzenBkc3hnNjN0ZWoxOGw1emZwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nuszmksOatr1jo0VJ4/giphy.gif" />
-  <p>Check-out the Full Week 10 and 11 Recap double feature in the Blog Post Below</p>
+  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDIzYm5vZnNwcjh3ZzF1ZG9hZ2swdjNiY3oxc3JzYW9scWZ5enFuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vt0CJxKsVklvxUcYdu/giphy.gif" />
+  <p>Check-out the Full Week 12 and 13 Recap double feature in the Blog Post Below</p>
 `;
 
 /*   STEP 3   */
