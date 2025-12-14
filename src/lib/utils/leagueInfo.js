@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>WEEK 14. The final game. 5 boys enter, 2 Men leave. </p>
+  <p>THE PLAYOFFS ARE UPON US</p>
   <p></p>
-  <p>Matt, Ben, Beau, Dan, and Brian are all vying for the final playoff spots</p>
-  <p>BN is 1st seed</p>
-  <p>Mac, Sam, and Molnar await to discover their seeds</p>
-  <p>Max, BP, and Justin prepare for the toilet bowl throwdown.</p>
-  <p></p>
-  <p>PLAYOFF FOOTBALL INBOUND</p>
-  <p></p>
-  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDIzYm5vZnNwcjh3ZzF1ZG9hZ2swdjNiY3oxc3JzYW9scWZ5enFuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vt0CJxKsVklvxUcYdu/giphy.gif" />
-  <p>Check-out the Full Week 12 and 13 Recap double feature in the Blog Post Below</p>
+  <p>BN and Mac look down and await their opponents in the pit</p>
+  <p>Running back stud Sam VS Cinderella Ben</p>
+  <p>Rollercoaster Dan VS Steady Ben</p>
+  <p>BP and Justin tread toilet water to see who they face next</p>
+  <p>Matt VS Brian in a game of what could have been</p>
+  <p>Will Beau escape failure in his first year? Or will Max's ancient QB room be his downfall?</p>
+  <p>PLAYOFF SEASON IS HERE</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExendhbm42Z2U4bW5vamx4dDd4MXM2cjJ4amo5bzVlM205cDhmb254aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gg8YmqQ8s8t32mdUfi/giphy.gif" />
+  <p>Check-out the Full Week 14 Recap and Playoff Preview in the Blog Post Below</p>
 `;
 
 /*   STEP 3   */
