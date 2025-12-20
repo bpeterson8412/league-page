@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>THE PLAYOFFS ARE UPON US</p>
+  <p>ROUND 1 IS DONE. WHO LIVED? WHO DIED?</p>
   <p></p>
-  <p>BN and Mac look down and await their opponents in the pit</p>
-  <p>Running back stud Sam VS Cinderella Ben</p>
-  <p>Rollercoaster Dan VS Steady Ben</p>
-  <p>BP and Justin tread toilet water to see who they face next</p>
-  <p>Matt VS Brian in a game of what could have been</p>
-  <p>Will Beau escape failure in his first year? Or will Max's ancient QB room be his downfall?</p>
-  <p>PLAYOFF SEASON IS HERE</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExendhbm42Z2U4bW5vamx4dDd4MXM2cjJ4amo5bzVlM205cDhmb254aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gg8YmqQ8s8t32mdUfi/giphy.gif" />
-  <p>Check-out the Full Week 14 Recap and Playoff Preview in the Blog Post Below</p>
+  <p>Sam spanks Ben</p>
+  <p>Ben beats down Dan</p>
+  <p>Magic Mac VS Steady Ben</p>
+  <p>He who must not be named VS Stud Stable Sam</p>
+  <p>BP VS Matt, A brother bowl to forget</p>
+  <p>Beau VS Justin, the youngins be fighting</p>
+  <p>PLAYOFF SEASON ROUND 2</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV4eGc4enZzZ3h2aGcwd2treXVsNm43djF6NHd5aXd1YjNydTNmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QbZw6q6RVaDHjwqXjL/giphy.gif" />
+  <p>Check-out the Full ROUND 1 Recap and Playoff Preview in the Blog Post Below</p>
 `;
 
 /*   STEP 3   */
