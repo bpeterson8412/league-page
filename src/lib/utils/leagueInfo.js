@@ -7,17 +7,17 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>ROUND 1 IS DONE. WHO LIVED? WHO DIED?</p>
-  <p></p>
-  <p>Sam spanks Ben</p>
-  <p>Ben beats down Dan</p>
-  <p>Magic Mac VS Steady Ben</p>
-  <p>He who must not be named VS Stud Stable Sam</p>
-  <p>BP VS Matt, A brother bowl to forget</p>
-  <p>Beau VS Justin, the youngins be fighting</p>
-  <p>PLAYOFF SEASON ROUND 2</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV4eGc4enZzZ3h2aGcwd2treXVsNm43djF6NHd5aXd1YjNydTNmZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QbZw6q6RVaDHjwqXjL/giphy.gif" />
-  <p>Check-out the Full ROUND 1 Recap and Playoff Preview in the Blog Post Below</p>
+  <p>SEASON 2025 WINNER</p>
+  <p>The "Divine Swine" Mac Daddy Goes back to back</p>
+  <img src= "/managers/lilpiggy.png" />
+  <p>The Shitter Bowl Throne returns home with Justin</p>
+  <p>That's 3 times for him</p>
+  <p>2026 League suggestions are open, below is a Google Forms link. Please take the time to fill it out.</p>
+  <p>This will remain open until next season, but we will take an inital vote on Super Bowl Sunday for qualifying entries</p>
+  <p>https://forms.gle/2Czp9DYegSqQ6WCf6</p>
+  <p>Only ~245 Days until we all have a shot at redemption</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzVqMGJoMzd5Mm9ubWl0cXp0eDdkNDRjOXJ6aG51ZG5hZDF0MHYxMCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/YBHJyPCU9h1VewdaPZ/giphy.gif" />
+  <p>The 2025 playoff and Championship round-up will be released Wednesday 12/31</p>
 `;
 
 /*   STEP 3   */
