@@ -14,7 +14,7 @@ export const homepageText = `
   <p>That's 3 times for him</p>
   <p>2026 League suggestions are open, below is a Google Forms link. Please take the time to fill it out.</p>
   <p>This will remain open until next season, but we will take an inital vote on Super Bowl Sunday for qualifying entries</p>
-  <a>https://forms.gle/2Czp9DYegSqQ6WCf6</a>
+  <a>href="url">https://forms.gle/2Czp9DYegSqQ6WCf6</a>
   <p>Only ~245 Days until we all have a shot at redemption</p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzVqMGJoMzd5Mm9ubWl0cXp0eDdkNDRjOXJ6aG51ZG5hZDF0MHYxMCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/YBHJyPCU9h1VewdaPZ/giphy.gif" />
   <p>The 2025 playoff and Championship round-up will be released Wednesday 12/31</p>
