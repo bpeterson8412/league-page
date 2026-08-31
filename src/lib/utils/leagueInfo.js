@@ -16,7 +16,7 @@ export const homepageText = `
   <p></p>
   <p>Only ~6 Days until we all have a shot at redemption</p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pbG45aTVkNTFsc3cycjZzN2U1b2Z5YmFmbHA2bzd4d3FyZWRxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MnEqKdZEerEiuAYAHG/giphy.gif" />
-  <h4>vvvvvv Check out the 2026 Season Preview below! vvvvvv</h4>
+  <h4>vvv Check out the 2026 Season Preview below! vvv</h4>
     <div class="video-wrapper">
     <iframe
       src="https://www.youtube.com/embed/d0YPb3Wo5MI"
