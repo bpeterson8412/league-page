@@ -136,7 +136,7 @@
 	}
     .video-wrapper {
         position: relative;
-        padding-bottom: 56.25%; /* 16:9 */
+        padding-bottom: 65%; /* 16:9 */
         height: 0;
         overflow: hidden;
     }
