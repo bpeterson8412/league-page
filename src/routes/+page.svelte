@@ -157,6 +157,19 @@
     	max-width: 100%;     /* keeps it responsive */
     	height: auto;        /* preserves aspect ratio */
 }
+	.leagueTitle {
+    	font-size: 2.5rem;
+    	font-weight: 900;
+    	text-align: center;
+    	letter-spacing: 3px;
+    	margin: 25px 0;
+    	background: linear-gradient(90deg, #d4af37, #f7e98e, #d4af37);
+    	-webkit-background-clip: text;
+    	color: transparent;
+    	text-transform: uppercase;
+}
+
+
 
 
 </style>
@@ -164,7 +177,7 @@
 <div id="home">
     <div id="main">
         <div class="text">
-            <h2>{leagueName}</h2>
+            <h2 class="leagueTitle">{leagueName}</h2>
             <!-- homepageText contains the intro text for your league, this gets edited in /src/lib/utils/leagueInfo.js -->
             {@html homepageText }
             <!-- Most recent Blog Post (if enabled) -->
