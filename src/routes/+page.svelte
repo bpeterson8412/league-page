@@ -150,6 +150,11 @@
         width: 100%;
         height: 100%;
     }
+	.text .video-wrapper {
+    	max-width: 1000px;
+    	width: 100%;
+    	margin: 30px auto;
+	}
 
 </style>
 
