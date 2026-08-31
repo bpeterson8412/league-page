@@ -134,27 +134,23 @@
 		color: #bbb;
 		font-style: italic;
 	}
-    .video-wrapper {
-        position: relative;
-        padding-bottom: 65%; /* 16:9 */
-        height: 0;
-        overflow: hidden;
+	:global(.video-wrapper) {
+   		position: relative;
+    	padding-bottom: 65%;
+    	height: 0;
+    	overflow: hidden;
     	margin: 20px auto;
-    	max-width: 900px; /* <-- NEW: makes the video wider */
-    }
-
-    .video-wrapper iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-	.text .video-wrapper {
     	max-width: 1000px;
     	width: 100%;
-    	margin: 30px auto;
 	}
+
+	:global(.video-wrapper iframe) {
+    	position: absolute;
+    	top: 0;
+    	left: 0;
+    	width: 100%;
+    	height: 100%;
+}
 
 </style>
 
