@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>SEASON 2026 IS UPON US</p>
+  <h3>SEASON 2026 IS UPON US</h3>
   <p>Will "Divine Swine" Mac Daddy finally be defeated?</p>
   <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
   <p>In 6 days the draft beings and the journey to glory continues.</p>
@@ -16,7 +16,7 @@ export const homepageText = `
   <p></p>
   <p>Only ~6 Days until we all have a shot at redemption</p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pbG45aTVkNTFsc3cycjZzN2U1b2Z5YmFmbHA2bzd4d3FyZWRxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MnEqKdZEerEiuAYAHG/giphy.gif" />
-  <p>vvvvvv Check out the 2026 Season Preview below! vvvvvv</p>
+  <h3>vvvvvv Check out the 2026 Season Preview below! vvvvvv</h3>
     <div class="video-wrapper">
     <iframe
       src="https://www.youtube.com/embed/d0YPb3Wo5MI"
