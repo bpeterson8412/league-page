@@ -7,17 +7,16 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>SEASON 2025 WINNER</p>
-  <p>The "Divine Swine" Mac Daddy Goes back to back</p>
-  <img src= "/managers/lilpiggy.png" />
-  <p>The Shitter Bowl Throne returns home with Justin</p>
-  <p>That's 3 times for him</p>
-  <p>2026 League suggestions are open, below is a Google Forms link. Please take the time to fill it out.</p>
-  <p>This will remain open until next season, but we will take an inital vote on Super Bowl Sunday for qualifying entries</p>
-  <a>href="url">https://forms.gle/2Czp9DYegSqQ6WCf6</a>
-  <p>Only ~245 Days until we all have a shot at redemption</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzVqMGJoMzd5Mm9ubWl0cXp0eDdkNDRjOXJ6aG51ZG5hZDF0MHYxMCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/YBHJyPCU9h1VewdaPZ/giphy.gif" />
-  <p>The 2025 playoff and Championship round-up will be released Wednesday 12/31</p>
+  <p>SEASON 2026 IS UPON US</p>
+  <p>Will "Divine Swine" Mac Daddy Goes be defeated?</p>
+  <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
+  <p>In 6 days the draft beings and the journey to glory continues.</p>
+  <p>Draft will START at Alpen Haus in Downtown Valpo at 4:45pm. Our reservation STARTS @ 4:00pm. http://alpenhaus.online </p>
+  <p>PLEASE BE THERE AT  4PM. We will be revealing draft picks first, and then of course our customary Cameo.</p>
+  <p></p>
+  <p>Only ~6 Days until we all have a shot at redemption</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pbG45aTVkNTFsc3cycjZzN2U1b2Z5YmFmbHA2bzd4d3FyZWRxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MnEqKdZEerEiuAYAHG/giphy.gif" />
+  <p>vvvvvv Check out the 2026 Season Preview below! vvvvvv</p>
 `;
 
 /*   STEP 3   */
