@@ -139,6 +139,8 @@
         padding-bottom: 65%; /* 16:9 */
         height: 0;
         overflow: hidden;
+    	margin: 20px auto;
+    	max-width: 900px; /* <-- NEW: makes the video wider */
     }
 
     .video-wrapper iframe {
