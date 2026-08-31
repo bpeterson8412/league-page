@@ -8,10 +8,10 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 /*   STEP 2   */
 export const homepageText = `
   <p>SEASON 2026 IS UPON US</p>
-  <p>Will "Divine Swine" Mac Daddy Goes be defeated?</p>
+  <p>Will "Divine Swine" Mac Daddy finally be defeated?</p>
   <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
   <p>In 6 days the draft beings and the journey to glory continues.</p>
-  <p>Draft will START at Alpen Haus in Downtown Valpo at 4:45pm. Our reservation STARTS @ 4:00pm. http://alpenhaus.online </p>
+  <p>Draft will START at Alpen Haus in Downtown Valpo at 4:45pm. Our reservation STARTS @ 4:00pm. <a href="http://alpenhaus.online" target="_blank">Alpen Haus Website</a> </p>
   <p>PLEASE BE THERE AT  4PM. We will be revealing draft picks first, and then of course our customary Cameo.</p>
   <p></p>
   <p>Only ~6 Days until we all have a shot at redemption</p>
