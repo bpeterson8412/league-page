@@ -151,6 +151,13 @@
     	width: 100%;
     	height: 100%;
 }
+	:global(video) {
+    	display: block;
+    	margin: 20px auto;   /* centers it */
+    	max-width: 100%;     /* keeps it responsive */
+    	height: auto;        /* preserves aspect ratio */
+}
+
 
 </style>
 
