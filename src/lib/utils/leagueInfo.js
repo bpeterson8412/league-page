@@ -17,6 +17,15 @@ export const homepageText = `
   <p>Only ~6 Days until we all have a shot at redemption</p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pbG45aTVkNTFsc3cycjZzN2U1b2Z5YmFmbHA2bzd4d3FyZWRxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MnEqKdZEerEiuAYAHG/giphy.gif" />
   <p>vvvvvv Check out the 2026 Season Preview below! vvvvvv</p>
+    <div class="video-wrapper">
+    <iframe
+      src="https://www.youtube.com/embed/d0YPb3Wo5MI"
+      title="2026 MUFF CUP TRAILER"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    ></iframe>
+  </div>
 `;
 
 /*   STEP 3   */
