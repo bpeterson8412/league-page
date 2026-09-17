@@ -44,14 +44,14 @@ export const managers = [
        // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Valparaiso", // (optional)
        "bio": "Your Glorious Commisioner. Totally not full of his own shit.",
-       "photo": "/managers/BP.PNG", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/BP.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "BN", // Can be anything (usually your rival's name)
          link: 1, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/BN.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/bn1.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
          },
        "rival2": {
          name: "Brian", // Can be anything (usually your rival's name)
@@ -71,14 +71,14 @@ export const managers = [
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Valparaiso", // (optional)
        "bio": "3 time champion of the league. Barely watches football",
-       "photo": "/managers/BN.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/bn1.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "BP", // Can be anything (usually your rival's name)
          link: 0, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/BP.PNG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/BP.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
          },
         "rival2": {
          name: "MacDaddy", // Can be anything (usually your rival's name)
@@ -98,14 +98,14 @@ export const managers = [
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Chesterton", // (optional)
        "bio": "Won the league too many times. Certified Field Fairy",
-       "photo": "/managers/Divine Swine.png", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/Divine Swine.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
        "rival": {
          name: "BN", // Can be anything (usually your rival's name)
          link: 1, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/BN.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/bn1.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -127,7 +127,7 @@ export const managers = [
        "rival": {
          name: "BP", // Can be anything (usually your rival's name)
          link: 0, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/BP.PNG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/BP.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -142,7 +142,7 @@ export const managers = [
        "name": "Max Gill III",
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Lowell", // (optional)
-       "bio": "Has somehow won this league bvbeing the worst performing team in it's history.",
+       "bio": "Has somehow won this league being the worst performing team in it's history.",
        "photo": "/managers/max.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -172,7 +172,7 @@ export const managers = [
        "rival": {
          name: "BN", // Can be anything (usually your rival's name)
          link: 1, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/BN.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/bn1.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -285,7 +285,7 @@ export const managers = [
        "rival": {
          name: "Mac", // Can be anything (usually your rival's name)
          link: 3, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/Divine Swine.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/Divine Swine.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
