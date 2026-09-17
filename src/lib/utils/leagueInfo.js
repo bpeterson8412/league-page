@@ -22,7 +22,7 @@ export const homepageText = `
       src="https://www.youtube.com/watch?v=6X63Xvw5Qd8"
       title="2026 MUFF CUP WEEK 1 RECAP"
       frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
     ></iframe>
   </div>
