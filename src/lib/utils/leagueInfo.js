@@ -7,7 +7,7 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <h4>WEEK 1 IS IN THE BOOKS US</h4>
+  <h4>WEEK 1 IS IN THE BOOKS</h4>
   <p>Mac keeps the winning streak alive</p>
   <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
   <p>BP's QB curse continues</p>
