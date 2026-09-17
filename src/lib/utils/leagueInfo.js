@@ -44,7 +44,7 @@ export const managers = [
        // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Valparaiso", // (optional)
        "bio": "Your Glorious Commisioner. Totally not full of his own shit.",
-       "photo": "/managers/bpdodge.JPG", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/BP.PNG", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -78,12 +78,12 @@ export const managers = [
        "rival": {
          name: "BP", // Can be anything (usually your rival's name)
          link: 0, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/bpdodge.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/BP.PNG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
          },
         "rival2": {
          name: "MacDaddy", // Can be anything (usually your rival's name)
          link: 2, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/lilpiggy.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/Divine Swine.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
          },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -98,7 +98,7 @@ export const managers = [
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Chesterton", // (optional)
        "bio": "Won the league too many times. Certified Field Fairy",
-       "photo": "/managers/lilpiggy.png", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/Divine Swine.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -127,7 +127,7 @@ export const managers = [
        "rival": {
          name: "BP", // Can be anything (usually your rival's name)
          link: 0, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/bpdodge.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/BP.PNG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -165,7 +165,7 @@ export const managers = [
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Chesterton", // (optional)
        "bio": "The moonface master of trading away top picks.",
-       "photo": "/managers/mattyp2.jpg", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/farmhand.png", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "gb", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
@@ -285,7 +285,7 @@ export const managers = [
        "rival": {
          name: "Mac", // Can be anything (usually your rival's name)
          link: 3, // manager array number within this array, or null to link back to all managers page
-         image: "/managers/lilpiggy.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "/managers/Divine Swine.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
        "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -300,7 +300,7 @@ export const managers = [
     //   "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Chesterton", // (optional)
        "bio": "The new guy in town",
-       "photo": "/managers/question.png", // square ratio recommended (no larger than 500x500)
+       "photo": "/managers/Beau.jpg", // square ratio recommended (no larger than 500x500)
        "fantasyStart": "The Beginning", // (optional) when did the manager start playing fantasy football
        "favoriteTeam": "ind", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
        //"mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
