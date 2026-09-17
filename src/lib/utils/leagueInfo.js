@@ -19,7 +19,7 @@ export const homepageText = `
   <h4> Check out the Week 1 Recap below! </h4>
     <div class="video-wrapper">
     <iframe
-      src="https://youtu.be/6X63Xvw5Qd8"
+      src="https://www.youtube.com/watch?v=6X63Xvw5Qd8"
       title="2026 MUFF CUP WEEK 1 RECAP"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
