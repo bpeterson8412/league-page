@@ -17,7 +17,7 @@ export const homepageText = `
   <p>More Action on the way in week 2</p>
   <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW83Z2kybGhkcWV3N2VsZmdsazlhcjV6azR3dXN4YnFycWdmZmdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G0B2gQIaRi3Lsp2rwj/giphy.gif" />
   <h4> Check out the Week 1 Recap below! </h4>
-    <div class="video-wrapper">
+    /* <div class="video-wrapper">
     <iframe
       src="https://www.youtube.com/watch?v=6X63Xvw5Qd8"
       title="2026 MUFF CUP WEEK 1 RECAP"
@@ -25,8 +25,8 @@ export const homepageText = `
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
     ></iframe>
-  </div>
-`;
+  </div> */
+`; 
 
 /*   STEP 3   */
 /*
