@@ -7,20 +7,20 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <h4>SEASON 2026 IS UPON US</h4>
-  <p>Will The "Divine Swine" Mac Daddy finally be defeated?</p>
+  <h4>WEEK 1 IS IN THE BOOKS US</h4>
+  <p>Mac keeps the winning streak alive</p>
   <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
-  <p>In 6 days the draft beings and the journey to glory continues.</p>
-  <p>Draft will START at Alpen Haus in Downtown Valpo at 4:45pm. Our reservation STARTS @ 4:00pm. <a href="http://alpenhaus.online" target="_blank">Alpen Haus Website</a> </p>
-  <p>PLEASE BE THERE AT  4PM. We will be revealing draft picks first, and then of course our customary Cameo.</p>
+  <p>BP's QB curse continues</p>
+  <p>Justin doesn't lose?</p>
+  <p>Brian has hope?</p>
   <p></p>
-  <p>Only ~6 Days until we all have a shot at redemption</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1pbG45aTVkNTFsc3cycjZzN2U1b2Z5YmFmbHA2bzd4d3FyZWRxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MnEqKdZEerEiuAYAHG/giphy.gif" />
-  <h4> Check out the 2026 Season Preview below! </h4>
+  <p>More Action on the way in week 2</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW83Z2kybGhkcWV3N2VsZmdsazlhcjV6azR3dXN4YnFycWdmZmdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G0B2gQIaRi3Lsp2rwj/giphy.gif" />
+  <h4> Check out the Week 1 Recap below! </h4>
     <div class="video-wrapper">
     <iframe
-      src="https://www.youtube.com/embed/d0YPb3Wo5MI"
-      title="2026 MUFF CUP TRAILER"
+      src="https://youtu.be/6X63Xvw5Qd8"
+      title="2026 MUFF CUP WEEK 1 RECAP"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
