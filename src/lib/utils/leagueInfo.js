@@ -7,19 +7,19 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <h4>WEEK 1 IS IN THE BOOKS</h4>
-  <p>Mac keeps the winning streak alive</p>
+  <h4>WEEK 2 IS OVER</h4>
+  <p>Matt defeats the tyrannical overlord</p>
   <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
-  <p>BP's QB curse continues</p>
-  <p>Justin doesn't lose?</p>
-  <p>Brian has hope?</p>
+  <p>BP's QB curse continues, Brian joins the frey</p>
+  <p>Ben goes from worst to first!</p>
+  <p>Matt trades with he who must not be named</p>
   <p></p>
-  <p>More Action on the way in week 2</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW83Z2kybGhkcWV3N2VsZmdsazlhcjV6azR3dXN4YnFycWdmZmdreSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/G0B2gQIaRi3Lsp2rwj/giphy.gif" />
-  <h4> Check out the Week 1 Recap below! </h4>
+  <p>More Action on the way in week 3</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlnMGRlODBkc3pmdzAycDcyZXYwb21sbDd1andhYzVubmVmY2NtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3cBJ7duonDLfPzua5p/giphy.gif" />
+  <h4> Check out the Week 2 Recap below! </h4>
     <div class="video-wrapper">
     <iframe
-      src="https://www.youtube.com/embed/6X63Xvw5Qd8"
+      src="https://www.youtube.com/embed/SRp-iQHsD-A?si=4LlxMrhorJ-oocXy"
       title="2026 MUFF CUP WEEK 1 RECAP"
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
