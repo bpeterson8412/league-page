@@ -9,7 +9,6 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 export const homepageText = `
   <h4>PIVOTAL WEEK 4 IS HERE</h4>
   <p>WHO STAYS UNDEFEATED?</p>
-/*  <video src="/managers/mac.mp4" autoplay muted loop playsinline></video> */
 <img src= "/managers/bpminecraft.png" />
   <p>BP SAM OR MAX, WHO WINS FIRST?</p>
   <p>BIG TRADES HIT</p>
