@@ -7,20 +7,21 @@ export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VIT
 
 /*   STEP 2   */
 export const homepageText = `
-  <h4>WEEK 2 IS OVER</h4>
-  <p>Matt defeats the tyrannical overlord</p>
-  <video src="/managers/mac.mp4" autoplay muted loop playsinline></video>
-  <p>BP's QB curse continues, Brian joins the frey</p>
-  <p>Ben goes from worst to first!</p>
-  <p>Matt trades with he who must not be named</p>
+  <h4>PIVOTAL WEEK 4 IS HERE</h4>
+  <p>WHO STAYS UNDEFEATED?</p>
+/*  <video src="/managers/mac.mp4" autoplay muted loop playsinline></video> */
+<img src= "/managers/bpminecraft.png" />
+  <p>BP SAM OR MAX, WHO WINS FIRST?</p>
+  <p>BIG TRADES HIT</p>
+  <p>DRAKE MAYE?</p>
   <p></p>
-  <p>More Action on the way in week 3</p>
-  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlnMGRlODBkc3pmdzAycDcyZXYwb21sbDd1andhYzVubmVmY2NtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3cBJ7duonDLfPzua5p/giphy.gif" />
-  <h4> Check out the Week 2 Recap below! </h4>
+  <p>More Action on the way in week 4</p>
+  <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNpbWh1dXpodHprazFwZzM0dnF1dTM0anVhZXl1M2NiMWgyY2l2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CPEJ0NxVWGfd3qeZVw/giphy.gif" />
+  <h4> Check out the Week 3 Recap below! </h4>
     <div class="video-wrapper">
     <iframe
-      src="https://www.youtube.com/embed/SRp-iQHsD-A?si=4LlxMrhorJ-oocXy"
-      title="2026 MUFF CUP WEEK 1 RECAP"
+      src="https://www.youtube.com/embed/ijvz8jPE-bg?si=kw9M0d0pRk7oqHd1"
+      title="2026 MUFF CUP WEEK 3 RECAP"
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
